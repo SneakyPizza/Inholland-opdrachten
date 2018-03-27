@@ -1,0 +1,6 @@
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\ConsoleAppExcercise\bin\Debug\ConsoleAppExcercise.exe.config
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\ConsoleAppExcercise\bin\Debug\ConsoleAppExcercise.exe
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\ConsoleAppExcercise\bin\Debug\ConsoleAppExcercise.pdb
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\ConsoleAppExcercise\obj\Debug\ConsoleAppExcercise.csprojResolveAssemblyReference.cache
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\ConsoleAppExcercise\obj\Debug\ConsoleAppExcercise.exe
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\ConsoleAppExcercise\obj\Debug\ConsoleAppExcercise.pdb

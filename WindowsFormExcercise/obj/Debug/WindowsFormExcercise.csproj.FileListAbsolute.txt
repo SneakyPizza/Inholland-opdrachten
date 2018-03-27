@@ -1,0 +1,9 @@
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\WindowsFormExcercise\bin\Debug\WindowsFormExcercise.exe.config
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\WindowsFormExcercise\bin\Debug\WindowsFormExcercise.exe
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\WindowsFormExcercise\bin\Debug\WindowsFormExcercise.pdb
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\WindowsFormExcercise\obj\Debug\WindowsFormExcercise.csprojResolveAssemblyReference.cache
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\WindowsFormExcercise\obj\Debug\WindowsFormExcercise.Form1.resources
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\WindowsFormExcercise\obj\Debug\WindowsFormExcercise.Properties.Resources.resources
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\WindowsFormExcercise\obj\Debug\WindowsFormExcercise.csproj.GenerateResource.Cache
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\WindowsFormExcercise\obj\Debug\WindowsFormExcercise.exe
+C:\Projects\C#Projects\AnalytischOntwerpen\Opdracht1401\WindowsFormExcercise\WindowsFormExcercise\obj\Debug\WindowsFormExcercise.pdb
