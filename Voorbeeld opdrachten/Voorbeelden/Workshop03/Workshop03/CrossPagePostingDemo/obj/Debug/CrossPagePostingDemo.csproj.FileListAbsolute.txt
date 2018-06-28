@@ -1,0 +1,6 @@
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\CrossPagePostingDemo\bin\CrossPagePostingDemo.dll
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\CrossPagePostingDemo\bin\CrossPagePostingDemo.pdb
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\CrossPagePostingDemo\bin\IMDb.dll
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\CrossPagePostingDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\CrossPagePostingDemo\obj\Debug\CrossPagePostingDemo.dll
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\CrossPagePostingDemo\obj\Debug\CrossPagePostingDemo.pdb

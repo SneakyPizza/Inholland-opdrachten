@@ -1,0 +1,14 @@
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opdracht 1\bin\Opdracht 1.dll.config
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opdracht 1\bin\Opdracht 1.dll
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opdracht 1\bin\Opdracht 1.pdb
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opdracht 1\obj\Debug\Opdracht 1.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opdracht 1\obj\Debug\Opdracht 1.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opdracht 1\obj\Debug\Opdracht 1.dll
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opdracht 1\obj\Debug\Opdracht 1.pdb
+F:\Tentamen\Opdracht 1\bin\Opdracht 1.dll.config
+F:\Tentamen\Opdracht 1\bin\Opdracht 1.dll
+F:\Tentamen\Opdracht 1\bin\Opdracht 1.pdb
+F:\Tentamen\Opdracht 1\obj\Debug\Opdracht 1.csprojResolveAssemblyReference.cache
+F:\Tentamen\Opdracht 1\obj\Debug\Opdracht 1.csproj.CoreCompileInputs.cache
+F:\Tentamen\Opdracht 1\obj\Debug\Opdracht 1.dll
+F:\Tentamen\Opdracht 1\obj\Debug\Opdracht 1.pdb

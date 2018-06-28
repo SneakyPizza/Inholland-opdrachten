@@ -1,0 +1,5 @@
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\SuperMaths\bin\Debug\SuperMaths.dll
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\SuperMaths\bin\Debug\SuperMaths.pdb
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\SuperMaths\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\SuperMaths\obj\Debug\SuperMaths.dll
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\SuperMaths\obj\Debug\SuperMaths.pdb

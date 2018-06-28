@@ -1,0 +1,6 @@
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\Week1\bin\Week1.dll.config
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\Week1\bin\Week1.dll
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\Week1\bin\Week1.pdb
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\Week1\obj\Debug\Week1.csprojResolveAssemblyReference.cache
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\Week1\obj\Debug\Week1.dll
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\Week1\obj\Debug\Week1.pdb

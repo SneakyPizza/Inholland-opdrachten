@@ -1,0 +1,15 @@
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opgave 2\bin\Opgave 2.dll.config
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opgave 2\bin\Opgave 2.dll
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opgave 2\bin\Opgave 2.pdb
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opgave 2\obj\Debug\Opgave 2.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opgave 2\obj\Debug\Opgave 2.dll
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opgave 2\obj\Debug\Opgave 2.pdb
+C:\Users\Mark\Desktop\Tentamen\Tentamen\Opgave 2\obj\Debug\Opgave 2.csprojResolveAssemblyReference.cache
+F:\Tentamen\Opgave 2\obj\Debug\Opgave 2.csprojResolveAssemblyReference.cache
+F:\Tentamen\Opgave 2\obj\Debug\Opgave 2.csproj.CoreCompileInputs.cache
+F:\Tentamen\Opgave 2\obj\Debug\Opgave 2.dll
+F:\Tentamen\Opgave 2\obj\Debug\Opgave 2.pdb
+E:\Tentamen\Opgave 2\obj\Debug\Opgave 2.csprojResolveAssemblyReference.cache
+E:\Tentamen\Opgave 2\obj\Debug\Opgave 2.csproj.CoreCompileInputs.cache
+E:\Tentamen\Opgave 2\obj\Debug\Opgave 2.dll
+E:\Tentamen\Opgave 2\obj\Debug\Opgave 2.pdb

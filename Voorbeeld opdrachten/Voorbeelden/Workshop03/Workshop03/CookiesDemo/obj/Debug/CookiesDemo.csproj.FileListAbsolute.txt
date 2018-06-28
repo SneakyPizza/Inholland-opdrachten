@@ -1,0 +1,6 @@
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\CookiesDemo\bin\CookiesDemo.dll
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\CookiesDemo\bin\CookiesDemo.pdb
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\CookiesDemo\bin\SuperMaths.dll
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\CookiesDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\CookiesDemo\obj\Debug\CookiesDemo.dll
+C:\Users\Sander\Documents\Visual Studio 2010\Projects\Inholland\Webprogrammeren\Workshop03\CookiesDemo\obj\Debug\CookiesDemo.pdb

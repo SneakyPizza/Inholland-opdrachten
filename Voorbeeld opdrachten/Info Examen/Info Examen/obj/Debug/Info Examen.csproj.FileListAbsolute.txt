@@ -1,0 +1,34 @@
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\ApplicationInsights.config
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Info Examen.dll.config
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Info Examen.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Info Examen.pdb
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.AI.DependencyCollector.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.AI.Web.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.AI.WindowsServer.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.ApplicationInsights.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.Threading.Tasks.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.Threading.Tasks.Extensions.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\System.IO.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\System.Runtime.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\System.Threading.Tasks.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.AI.DependencyCollector.xml
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.AI.Web.xml
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.AI.WindowsServer.xml
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.ApplicationInsights.xml
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.Threading.Tasks.xml
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.Threading.Tasks.Extensions.xml
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\System.IO.xml
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\System.Runtime.xml
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\bin\System.Threading.Tasks.xml
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\obj\Debug\Info Examen.csproj.App.config
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\obj\Debug\Info Examen.csprojResolveAssemblyReference.cache
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\obj\Debug\Info Examen.dll
+F:\Bibliotheken\Google Drive\1. Inholland\2. Blok 2\3. Webprogrammeren\Examen\Info Examen\Info Examen\obj\Debug\Info Examen.pdb

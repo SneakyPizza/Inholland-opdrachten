@@ -1,0 +1,6 @@
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\WebApplication1\bin\WebApplication1.dll.config
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\WebApplication1\bin\WebApplication1.dll
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\WebApplication1\bin\WebApplication1.pdb
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\WebApplication1\obj\Debug\Week3.csprojResolveAssemblyReference.cache
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\WebApplication1\obj\Debug\WebApplication1.dll
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\WebApplication1\obj\Debug\WebApplication1.pdb

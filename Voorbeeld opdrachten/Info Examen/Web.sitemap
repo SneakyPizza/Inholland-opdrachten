@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="root" title="root"  description="">
+      <siteMapNode url="test" title="test">
+        <siteMapNode url="test1" title="test1" />
+        <siteMapNode url="test2" title="test2" />
+        <siteMapNode url="test3" title="test3" />
+        <siteMapNode url="test4" title="test4" />
+      </siteMapNode>
+      <siteMapNode url="poep" title="poep">
+        <siteMapNode url="poep1" title="poep1" />
+        <siteMapNode url="poep2" title="poep2" />
+        <siteMapNode url="poep3" title="poep3" />
+        <siteMapNode url="poep4" title="poep4" />
+      </siteMapNode>
+      <siteMapNode url="henk" title="henk">
+        <siteMapNode url="henk1" title="henk1" />
+        <siteMapNode url="henk2" title="henk2" />
+        <siteMapNode url="henk3" title="henk3" />
+        <siteMapNode url="henk4" title="henk4" />
+      </siteMapNode>
+    </siteMapNode>
+</siteMap>

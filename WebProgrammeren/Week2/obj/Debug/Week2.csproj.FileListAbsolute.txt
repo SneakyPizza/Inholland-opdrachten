@@ -1,0 +1,5 @@
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\Week2\bin\Week2.dll.config
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\Week2\bin\Week2.dll
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\Week2\bin\Week2.pdb
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\Week2\obj\Debug\Week2.dll
+C:\School\Periode 4\WebProgrammeren\WebProgrammeren\Week2\obj\Debug\Week2.pdb
